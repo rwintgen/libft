@@ -1,2 +1,2 @@
 # libft  
-Implementation of standard C libraries functions
+Implementation of standard C libraries functions.
