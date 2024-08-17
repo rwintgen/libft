@@ -1,2 +1,2 @@
 # libft
-Personal mplementations of standard C libraries functions
+Personal implementations of standard C libraries functions
