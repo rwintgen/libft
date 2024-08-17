@@ -1,3 +1,2 @@
 # libft  
-![1](https://github.com/rwintgen/42/assets/150167832/e4dce55a-1d5d-464f-ae3f-64ac536f542c)  
-Personal implementation of standard C libraries functions.
+The goal of this project is to code from scratch basic utils functions already available in libraries like stdlib.h, unistd.h and string.h for use in later projects.
